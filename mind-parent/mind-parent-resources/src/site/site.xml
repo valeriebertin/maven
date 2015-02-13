@@ -13,11 +13,6 @@
   -->
 
 <project name="Mind Parent POM">
-  <skin>
-    <groupId>org.ow2.mind</groupId>
-    <artifactId>mind-parent-resources</artifactId>
-    <version>7-SNAPSHOT</version>
-  </skin>
 
   <body>
     <menu name="MIND" inherit="top">
