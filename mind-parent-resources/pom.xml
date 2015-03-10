@@ -14,9 +14,9 @@
     </description>
 
     <scm>
-        <connection>scm:git:https://github.com/valeriebertin/maven/tree/master/mind-parent-resources</connection>
-        <developerConnection>scm:git:https://github.com/valeriebertin/maven/tree/master/mind-parent-resources</developerConnection>
-        <url>https://github.com/valeriebertin/maven/tree/master/mind-parent/mind-parent-resources</url>
+        <connection>scm:git:https://github.com/valeriebertin/maven/tree/test2-release/mind-parent-resources</connection>
+        <developerConnection>scm:git:https://github.com/valeriebertin/maven/tree/test2-release/mind-parent-resources</developerConnection>
+        <url>https://github.com/valeriebertin/maven/tree/test2-release/mind-parent-resources</url>
     </scm>
 
     <build>
