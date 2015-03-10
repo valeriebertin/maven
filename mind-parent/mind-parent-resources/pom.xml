@@ -14,6 +14,12 @@
         Resources for parent POM for MIND modules built with maven.
     </description>
 
+    <scm>
+        <connection>scm:git:https://github.com/valeriebertin/maven/tree/master/mind-parent/mind-parent-resources</connection>
+        <developerConnection>scm:git:https://github.com/valeriebertin/maven/tree/master/mind-parent/mind-parent-resources</developerConnection>
+        <url>https://github.com/valeriebertin/maven/tree/master/mind-parent/mind-parent-resources</url>
+    </scm>
+
     <build>
         <plugins>
             <!-- Following plugins are not inherited to children -->
