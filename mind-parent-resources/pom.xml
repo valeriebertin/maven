@@ -4,7 +4,7 @@
 
     <groupId>org.ow2.mind</groupId>
     <artifactId>mind-parent-resources</artifactId>
-    <version>1</version>
+    <version>1-SNAPSHOT</version>
 
     <packaging>pom</packaging>
     <name>MIND parent resources</name>
@@ -14,8 +14,8 @@
     </description>
 
     <scm>
-        <connection>scm:git:https://github.com/valeriebertin/maven/tree/master/mind-parent/mind-parent-resources</connection>
-        <developerConnection>scm:git:https://github.com/valeriebertin/maven/tree/master/mind-parent/mind-parent-resources</developerConnection>
+        <connection>scm:git:https://github.com/valeriebertin/maven/tree/master/mind-parent-resources</connection>
+        <developerConnection>scm:git:https://github.com/valeriebertin/maven/tree/master/mind-parent-resources</developerConnection>
         <url>https://github.com/valeriebertin/maven/tree/master/mind-parent/mind-parent-resources</url>
     </scm>
 
