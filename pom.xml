@@ -12,7 +12,7 @@
 
     <groupId>org.ow2.mind</groupId>
     <artifactId>mind-parent</artifactId>
-    <version>7-SNAPSHOT</version>
+    <version>10</version>
 
     <packaging>pom</packaging>
     <name>MIND parent POM</name>
