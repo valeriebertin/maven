@@ -13,6 +13,14 @@
         Resources for parent POM for MIND modules built with maven.
     </description>
 
+    <properties>
+        <!-- The login name on the OW2 Forge (default is local user name, may be 
+            overridden on the command line or in settings.xml file). -->
+        <ow2.username>${user.name}</ow2.username>
+        <ow2.hostname>forge.objectweb.org</ow2.hostname>
+        <ow2.site.deploy.dir>/var/lib/gforge/chroot/home/groups/mind/htdocs</ow2.site.deploy.dir>
+    </properties>
+
     <distributionManagement>
         <site>
             <id>OW2</id>
