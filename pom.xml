@@ -86,9 +86,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/valeriebertin/maven/mind-parent</connection>
-        <developerConnection>scm:git:https://github.com/valeriebertin/maven/mind-parent</developerConnection>
-        <url>https://github.com/valeriebertin/maven/mind-parent</url>
+        <connection>scm:git:https://github.com/valeriebertin/maven</connection>
+        <developerConnection>scm:git:https://github.com/valeriebertin/maven</developerConnection>
+        <url>https://github.com/valeriebertin/maven</url>
     </scm>
 
     <mailingLists>
