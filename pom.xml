@@ -79,9 +79,9 @@
     </properties>
 
     <scm>
-        <connection>scm:svn:svn://svn.forge.objectweb.org/svnroot/mind/maven/trunk/mind-parent</connection>
-        <developerConnection>scm:svn:svn+ssh://svn.forge.objectweb.org/svnroot/mind/maven/trunk/mind-parent</developerConnection>
-        <url>http://fisheye.ow2.org/browse/mind/maven/trunk/mind-parent</url>
+        <connection>scm:git:https://github.com/valeriebertin/maven</connection>
+        <developerConnection>scm:git:https://github.com/valeriebertin/maven</developerConnection>
+        <url>https://github.com/valeriebertin/maven</url>
     </scm>
 
     <mailingLists>
