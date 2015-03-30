@@ -47,21 +47,21 @@
         </repository>
     </repositories-->
 
-    <!--properties>
+    <properties>
         < The login name on the OW2 Forge (default is local user name, may be overridden on the command line or in settings.xml file). >
         <ow2.username>${user.name}</ow2.username>
         <ow2.hostname>forge.objectweb.org</ow2.hostname>
         <ow2.hostname>shell.forge.ow2.org</ow2.hostname>
         <ow2.site.deploy.dir>/var/lib/gforge/chroot/home/groups/mind/htdocs</ow2.site.deploy.dir>
-    </properties-->
+    </properties>
 
-    <!--distributionManagement>
+    <distributionManagement>
         <site>
             <id>OW2</id>
             <name>MIND OW2's site</name>
             <url>scp://${ow2.hostname}${ow2.site.deploy.dir}/mind-parent-resources-${project.version}</url>
         </site>
-    </distributionManagement-->
+    </distributionManagement>
 
     <build>
 	<!--extensions> 
