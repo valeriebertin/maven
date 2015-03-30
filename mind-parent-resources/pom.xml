@@ -12,7 +12,7 @@
 
     <groupId>org.ow2.mind</groupId>
     <artifactId>mind-parent-resources</artifactId>
-    <version>9-SNAPSHOT</version>
+    <version>9</version>
 
     <packaging>pom</packaging>
     <name>MIND parent resources</name>
