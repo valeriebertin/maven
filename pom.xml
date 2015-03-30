@@ -104,11 +104,11 @@
 
 
     <distributionManagement>
-        <site>
+        <repository>
             <id>OW2</id>
             <name>MIND OW2's site</name>
             <url>scp://${ow2.hostname}${ow2.site.deploy.dir}/mind-parent-${project.version}</url>
-        </site>
+        </repository>
     </distributionManagement>
 
     <modules>
