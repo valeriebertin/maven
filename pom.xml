@@ -85,9 +85,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/MIND-Tools/mind-parent</connection>
-        <developerConnection>scm:git:https://github.com/MIND-Tools/mind-parent</developerConnection>
-        <url>https://github.com/MIND-Tools/mind-parent</url>
+        <connection>scm:git:https://github.com/valeriebertin/mind-parent</connection>
+        <developerConnection>scm:git:https://github.com/valeriebertin/mind-parent</developerConnection>
+        <url>https://github.com/valeriebertin/mind-parent</url>
     </scm>
 
     <mailingLists>
