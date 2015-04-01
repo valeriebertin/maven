@@ -159,7 +159,7 @@
 
                         <remoteTagging>false</remoteTagging>
 
-                        <arguments>-Pow2-release -DmindRelease=true</arguments>
+                        <arguments>-DmindRelease=true</arguments>
                     </configuration>
                 </plugin>
 
